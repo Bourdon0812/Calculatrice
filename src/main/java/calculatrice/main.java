@@ -7,7 +7,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 public class main extends JFrame implements ActionListener {
-    private static final String IMAGE_ICON_PATH = "C:/Users/Ilan/Documents/Professionel/Dev/Language/Java/Jframe/Calculatrice/src/main/java/calculatrice/img/CalculatriceIcon.png";
+    private static final String IMAGE_ICON_PATH = "/src/main/java/calculatrice/img/CalculatriceIcon.png";
     private static final String TITLE = "Calculatrice";
     private static final short WIDTH = 550;
     private static final short HEIGHT = 700;
